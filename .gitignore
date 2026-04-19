@@ -1,0 +1,12 @@
+.DS_Store
+*.log
+npm-debug.log*
+.env
+
+node_modules
+ai-tutor-backend/node_modules
+ai-tutor-frontend/node_modules
+
+ai-tutor-backend/.env
+ai-tutor-backend/data/interviews/*.json
+ai-tutor-frontend/dist
